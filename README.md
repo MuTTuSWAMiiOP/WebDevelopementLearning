@@ -1,2 +1,2 @@
 # WebDevelopementLearnig
-Learnign web developement.
+Learning web developement.
